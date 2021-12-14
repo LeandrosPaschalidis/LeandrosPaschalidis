@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @LeandrosPaschalidis
 - 👀 I’m interested in optimization and its applications in chemical process engineering. 
 - 🌱 I’m currently learning Pyomo. 
-- 💞️ I’m looking to collaborate on reaction engineering projects. 
 - 📫 To reach me send me an email at leandros.paschalidis@tum.de. 
